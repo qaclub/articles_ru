@@ -18,6 +18,21 @@
 * статья №2: http://www.mkyong.com/java8/java-8-foreach-examples/
 * статья №3: https://ru.wikibooks.org/wiki/Java/%D0%9E%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D1%8B_%D1%86%D0%B8%D0%BA%D0%BB%D0%B0_for,_while,_do_..._while
 
+##### Автоматизация сборки Java проектов. Что такое Maven?
+* http://www.quizful.net/post/automated-builds-java
+* http://www.apache-maven.ru/
+* https://habrahabr.ru/post/77382/
+
+##### Аннотации в Java
+* https://habrahabr.ru/post/139736/
+* https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%BD%D0%BE%D1%82%D0%B0%D1%86%D0%B8%D1%8F_(Java)
+
+##### JUnit
+* http://devcolibri.com/864
+
+##### Что такое WebDriver
+* https://habrahabr.ru/post/152971/
+
 Для тех, кому удобнее изучать материал по видео, рекомендую следующие короткие видео из курса CS50 (там речь идет о языке C, но практически все является также истинным и для Java):
 
 ##### Видео - Циклы в C

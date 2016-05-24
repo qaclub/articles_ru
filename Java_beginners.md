@@ -1,3 +1,5 @@
+# Ссылки на ресурсы по автоматизации для начинающих:
+
 ##### Видимость переменных и методов
 * статья: https://ru.wikibooks.org/wiki/Java/%D0%92%D0%B8%D0%B4%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D1%8C
 * таблица: http://www.csee.umbc.edu/courses/undergraduate/202/fall07/Projects/p4/AccessControl.jpg

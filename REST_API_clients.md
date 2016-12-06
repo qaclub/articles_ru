@@ -1,7 +1,9 @@
+## REST clients (browsers' extensions)
+
 Firefox: RESTClient - http://restclient.net/
 Chrome: Advanced REST Client - https://advancedrestclient.com/
 
-REST client with ability to add tests:
+## REST client with ability to add tests:
 Postman https://www.getpostman.com/
 
 Example of public APIs:
